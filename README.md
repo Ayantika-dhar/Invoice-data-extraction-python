@@ -21,9 +21,9 @@ Assignment/
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📄 Extracts key invoice fields:
+-  Extracts key invoice fields:
   - Invoice Number
   - Order Date
   - Customer Name
